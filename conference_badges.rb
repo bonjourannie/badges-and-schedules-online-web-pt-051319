@@ -4,5 +4,6 @@ def badge_maker (name)
 end
 
 def batch_badge_creator(attendee)
+  attendee.each do 
   puts "Hello, my name is #{attendee}."
 end

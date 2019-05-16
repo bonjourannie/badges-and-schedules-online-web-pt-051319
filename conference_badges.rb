@@ -9,5 +9,4 @@ def batch_badge_creator(attendee)
   badges.push("Hello, my name is #{badge}.")
   end
   return badges
-  
 end 
